@@ -1,0 +1,49 @@
+Kaden the LG Ranger Hobgoblin
+Age: 14
+Height: 6"-1"
+Weight: 124 lbs
+Ability Score: Constitution is increased by 2 & Intelligence is increased by 1.
+Proficiencies: You are proficient with two martial weapons of your choice and with light armor.
+Languages: You can speak, read, and write Common and Goblin.
+Speed: Your base walking speed is 30 feet.
+Darkvision: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Saving Face:
+Hobgoblins are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can’t use it again until you finish a short or long rest.
+Kaden the LG Artificer Goblin
+Age: 14
+Height: 4"-0"
+Weight: 40 lbs
+Ability Score: Dexterity is increased by 2 & Constitution is increased by 1.
+Proficiencies: None
+Languages: You can speak, read, and write Common and Goblin.
+Speed: Your base walking speed is 30 feet.
+Darkvision: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Fury of the Small:
+When you damage a creature with an attack or a spell and the creature’s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can’t use it again until you finish a short or long rest.
+Nimble Escape:
+You can take the Disengage or Hide action as a bonus action on each of your turns.
+Brad the CG Wizard Bugbear
+Age: 28
+Height: 7"-0"
+Weight: 161 lbs
+Ability Score: Strength is increased by 2 & Dexterity is increased by 1.
+Proficiencies: You are proficient in the Stealth skill.
+Languages: You can speak, read, and write Common and Goblin.
+Speed: Your base walking speed is 30 feet.
+Darkvision: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Long-Limbed: When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+Powerful Build: You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+Surprise Attack: If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
+B-Rad the LG Wizard Goblin
+Age: 199
+Height: 3"-11"
+Weight: 38 lbs
+Ability Score: Dexterity is increased by 2 & Constitution is increased by 1.
+Proficiencies: None
+Languages: You can speak, read, and write Common and Goblin.
+Speed: Your base walking speed is 30 feet.
+Darkvision: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+Fury of the Small:
+When you damage a creature with an attack or a spell and the creature’s size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can’t use it again until you finish a short or long rest.
+Nimble Escape:
+You can take the Disengage or Hide action as a bonus action on each of your turns.
